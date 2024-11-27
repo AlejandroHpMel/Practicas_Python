@@ -1,0 +1,8 @@
+print("Ejercicio 1_6 calcular el area de un triangulo")
+#Fecha: 2024/10/15
+#Elaborado por: Fausto Alexander Ramírez Ramírez
+base = float(input("Cuanto mide la base: "))
+altura= float(input("Cuanto mide la altura: "))
+area = base * altura / 2
+print("El area de este triangulo es: "+ str(area))
+
