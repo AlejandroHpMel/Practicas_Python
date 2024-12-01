@@ -1,8 +1,8 @@
-Explicación Detallada del Código
-El código que has compartido tiene dos líneas que utilizan la función print() de Python para mostrar mensajes en la consola. Vamos a desglosar cada parte del código para entenderlo completamente.
+#Explicación Detallada del Programa 1
+###El código que has compartido tiene dos líneas que utilizan la función print() de Python para mostrar mensajes en la consola. Vamos a desglosar cada parte del código para entenderlo completamente.
 
 Primera Línea de Código
-print("Ejercicio 1: Mostrar el nombre")
+```print("Ejercicio 1: Mostrar el nombre")```
 Función print(): Esta es una función incorporada en Python que se utiliza para mostrar información en la consola. Es muy útil para depurar programas y para interactuar con el usuario.
 Cadena de Texto: "Ejercicio 1: Mostrar el nombre" es una cadena de caracteres. En Python, las cadenas de texto se encierran entre comillas dobles (") o simples ('). Aquí estamos usando comillas dobles.
 Propósito: Esta línea de código le dice a Python que muestre el texto "Ejercicio 1: Mostrar el nombre" en la consola. Es una manera de indicar al usuario qué ejercicio se está realizando.
