@@ -1,7 +1,6 @@
 # Explicación Detallada del Programa 1
 El código completo se ve así:
-#### Primera Línea: Muestra el título del ejercicio
-#### Segunda Línea: Muestra el nombre del alumno
+
 ```print("Ejercicio 1: Mostrar el nombre")```
 
 ```print("Nombre del alumno: Alejandro Martinez Martinez")```
