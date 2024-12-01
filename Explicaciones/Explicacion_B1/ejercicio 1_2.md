@@ -1,4 +1,4 @@
-# Explicación Detallada del Ejercicio1_2
+# Explicación Detallada del Programa 2
 El código completo se ve así:
 
 ```print("Ejercicio 1.2 Solicitar nombre e imprimir mensaje personalizado")```
