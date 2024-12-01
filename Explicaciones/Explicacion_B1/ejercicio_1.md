@@ -1,5 +1,5 @@
-#Explicación Detallada del Programa 1
-###El código que has compartido tiene dos líneas que utilizan la función print() de Python para mostrar mensajes en la consola. Vamos a desglosar cada parte del código para entenderlo completamente.
+# Explicación Detallada del Programa 1
+### El código que has compartido tiene dos líneas que utilizan la función print() de Python para mostrar mensajes en la consola. Vamos a desglosar cada parte del código para entenderlo completamente.
 
 Primera Línea de Código
 ```print("Ejercicio 1: Mostrar el nombre")```
