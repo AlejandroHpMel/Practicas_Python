@@ -1,4 +1,4 @@
-print("Ejercicio 1.4: Comprobando funcionamiento")
+print("Ejercicio 4: Comprobando funcionamiento")
 print(1 + 2)
 print(1 - 2)
 print(1 * 2)
