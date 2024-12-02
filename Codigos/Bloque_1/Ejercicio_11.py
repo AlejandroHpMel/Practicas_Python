@@ -1,5 +1,6 @@
-# Programa para analizar los operadores de comparacion "==, !!=, >=, <=, >, <"
+# Programa 11 
 # Elaborado por: Alejandro Martinez Martinez
+print("Analizar los operadores de comparacion "==, !!=, >=, <=, >, <"")
 print("Operador ==:")
 print(5 == 7)
 print(5 == 5)
