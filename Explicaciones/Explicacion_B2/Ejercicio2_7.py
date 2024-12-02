@@ -1,0 +1,15 @@
+#Programa.7  el bar
+#Fecha de elaboracion: 20210/10/23
+#Elaborado por: Alejandro Martinez Martinez
+
+edad = int(input("Ingresa tu edad: "))
+if   edad >=18:
+   print("Puede ingresar al bar" )
+
+
+
+else:
+   print("Vete a tu casa niñ@ rataaaa ")
+
+print("\n")
+print("fin del programa")
