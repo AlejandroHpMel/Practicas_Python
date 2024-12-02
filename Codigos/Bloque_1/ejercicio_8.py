@@ -1,6 +1,7 @@
-# Programa ue calculael numero de minutos, horas y meses, dado el numero de dias por el usuario
-# Fecha: 16710/2024
-# Elaborado por: Fausto Alexander Ramírez Ramírez
+# Programa 8
+# Fecha: 16/10/2024
+# Elaborado por: Alejandro Martinez Martinez
+print("Ejercicio que calcula el numero de minutos, horas y meses, dado el numero de dias por el usuario")
 dias = int(input("Digite la cantidad de dias: "))
 horas = dias * 24
 min = horas * 60
