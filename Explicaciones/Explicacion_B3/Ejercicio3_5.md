@@ -1,4 +1,4 @@
-Explicación Detallada del Programa 5
+# Explicación Detallada del Programa 5
 El código completo se ve así:
 
 ```print("Calcule el nivel de desempeño descrito con su calificación dada por el usuario, dada con la siguiente tabla")```
